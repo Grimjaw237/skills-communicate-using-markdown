@@ -13,15 +13,13 @@
 ![Image of Fintechtocat](https://octodex.github.com/images/Fintechtocat.png)
 
 
+``` python
+print ("Hello World!")
+```
 
-
-
-
-
-
-
-
-
+``` javascript
+var myVar = "Hello, world!";
+```
 
 
 Just added some headers.
