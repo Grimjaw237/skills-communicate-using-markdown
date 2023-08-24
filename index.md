@@ -10,7 +10,7 @@
 
 ###### This is the sixth header.
 
-
+![Image of Fintechtocat](https://octodex.github.com/images/Fintechtocat.png)
 
 
 
